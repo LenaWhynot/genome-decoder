@@ -66,7 +66,6 @@ cd steps && python run_pipeline.py
 
 ## Credits
 
-Подход вдохновлён докладом об AI-декодировании генома (Founder OS, сообщество AM&Z).
 Использует открытые ресурсы: ClinVar (NCBI), gnomAD (Broad), Ensembl VEP, AlphaMissense (DeepMind),
 CADD, PGS Catalog, Michigan Imputation Server, HIBAG. Спасибо их авторам.
 
