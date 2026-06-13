@@ -1,0 +1,4 @@
+# Genome Decoder — зависимости. Большинство шагов = чистый stdlib (urllib/gzip/json).
+# pysam нужен только для подготовки к импутации (michigan_prep.py: bgzip/tabix).
+pysam>=0.22
+# Опц. для полного HLA — устанавливается отдельно: R + Bioconductor HIBAG (см. SKILL.md).
